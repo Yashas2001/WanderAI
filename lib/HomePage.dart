@@ -954,8 +954,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                     height: 20,
                     width: 20,
                   ),
-                  label: 'Home',
-              ),
+                  label: 'Home',),
               BottomNavigationBarItem(
                   icon: Image.asset(
                     'assets/navigation icons/tripsmmtbtm.webp',
